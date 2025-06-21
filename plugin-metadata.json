@@ -1,0 +1,11 @@
+{
+    "name": "cs2rockthevote",
+    "alias": "cs2rtv",
+    "display_name": "CS2RockTheVote",
+    "description": "RTV plugin for CS2. Supports nominate with map descriptions and rtv/forcertv.",
+    "author": "johnnyboy2329 - Discord",
+    "url": "http://www.sourcemm.net/",
+    "log_tag": "CS2RTV",
+    "license": "Public Domain",
+    "version": "1.0.0.{{git-shorthash}}"
+}

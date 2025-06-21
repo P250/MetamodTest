@@ -1,0 +1,6 @@
+services:
+  arbitrarycs2plugin-build:
+    image: ambuilder
+    build: .
+    volumes:
+      - '.:/app/source'
