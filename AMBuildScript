@@ -305,6 +305,7 @@ const char *PLUGIN_REVISION_COUNT = \"{revision_count}\";
         '-Wno-switch',
         '-msse',
         '-fPIC',
+		'-Wno-non-pod-varargs',
       ]
 
       cxx.cxxflags += ['-std=c++17']

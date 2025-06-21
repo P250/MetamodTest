@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"cs2rtv"
+	"file"	"addons/cs2rockthevote/bin/linuxsteamrt64/cs2rockthevote"
+}
