@@ -1,6 +1,6 @@
 
-const char *PLUGIN_FULL_VERSION   = "1.0.0.931ef43";
-const char *PLUGIN_REVISION_SHORT = "931ef43";
-const char *PLUGIN_REVISION_LONG  = "931ef43b4618a1463418a0904c15c6795c28104f";
-const char *PLUGIN_REVISION_COUNT = "3";
+const char *PLUGIN_FULL_VERSION   = "1.0.0.888caf1";
+const char *PLUGIN_REVISION_SHORT = "888caf1";
+const char *PLUGIN_REVISION_LONG  = "888caf184cf11998b06a432fd76ec8872a6ed4d9";
+const char *PLUGIN_REVISION_COUNT = "4";
     

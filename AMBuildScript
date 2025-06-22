@@ -317,7 +317,6 @@ const char *PLUGIN_REVISION_COUNT = \"{revision_count}\";
         '-Wno-non-virtual-dtor',
         '-Wno-overloaded-virtual',
         '-Wno-register',
-		'-Wno-non-pod-varargs',
       ]
       if (cxx.version >= 'gcc-4.7' or cxx.family == 'clang'):
         cxx.cxxflags += ['-Wno-delete-non-virtual-dtor']
